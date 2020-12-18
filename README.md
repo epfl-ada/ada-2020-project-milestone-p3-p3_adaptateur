@@ -30,9 +30,8 @@ For some questions where we need specific time information, we will ignore the S
 - hater/lover behavior description (proportion and extraction of common features)
 - hater/lover evolution along time
 
-**Effect of popularity over appreciation:** figure out whether popularity can influence statistically the appreciation of other nodes. Specifically, determine the influence of haters/lovers combining with their popularity using a regression method.
+**Effect of popularity over appreciation:** figure out whether popularity can influence statistically the appreciation of other nodes. Specifically, determine the influence of haters/lovers combining with their popularity using a classification method.
 
-**Community Effect:** Create clusters of highly connected users and analyze if their like/dislike likelihood is influenced by the community.
 
 # Proposed timeline
 
@@ -49,7 +48,6 @@ For some questions where we need specific time information, we will ignore the S
  
 **Week 3:** 
  - Add the analysis and graphs of the previous week to the data story.
- - Create a visualization of the clusters.
  - Add the cluster analysis and visualization to the data story.
  - Create slides/visuals for the video.
  
